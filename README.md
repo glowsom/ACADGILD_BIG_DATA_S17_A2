@@ -1,6 +1,7 @@
 # ACADGILD_BIG_DATA_S17_A2
 RDD Operations
 
+Given a dataset of college students as a text file (name, subject, grade, marks)
 
 Problem Statement 1:
 
